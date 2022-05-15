@@ -22,5 +22,3 @@ function countPositivesSumNegatives(input) {
   return [plusArr.length, minusArr.reduce((acc, c) => acc + c, 0)]
 }
 
-
-// hi
